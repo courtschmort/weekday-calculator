@@ -9,4 +9,4 @@
 | When month is selected, the corresponding number of days are available for selection | June | 1-30 |
 | When year is selected, the corresponding number of days are available for February to account for leap years | February 2020 | 1-29 |
 | Program returns weekday when day, month, and year are inputted | March 14, 1989 | Tuesday |
-|  |  |  |
+| Program concatenates and returns month day, year | March 14 1989 | March 14, 1989 |
